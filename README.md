@@ -15,7 +15,7 @@ By downloading the PhoATIS_Disfluency dataset, USER agrees:
 - to **not** distribute PhoATIS_Disfluency or part of PhoATIS_Disfluency in any original or modified form.
 - and to cite our INTERSPEECH 2022 paper above whenever PhoATIS_Disfluency is employed to help produce published results.
 
-<!-- The user can also download [our PhoATIS dataset](https://github.com/VinAIResearch/JointIDSF/tree/main/PhoATIS) for Vietnamese intent detection and slot filling. -->
+The user can also download [our PhoATIS dataset](https://github.com/VinAIResearch/JointIDSF) for Vietnamese intent detection and slot filling.
 
 
 
