@@ -1,11 +1,10 @@
-# PhoATIS_Disfluency
-From Disfluency Detection to Intent Detection and Slot Filling (INTERSPEECH 2022)
+# PhoATIS_Disfluency: From Disfluency Detection to Intent Detection and Slot Filling
 
-PhoATIS_Disfluency is a dataset for the purpose of investigating the influence of disfluency detection on the downstream intent detection and slot filling tasks in Vietnamese, consisting of about 6K utterances with disfluency annotations. The construction of PhoATIS_Disfluency and experimental results can be found in our [INTERSPEECH-2022 paper](to-be-updated):
+PhoATIS_Disfluency is a dataset created for investigating the influence of disfluency detection on the downstream intent detection and slot filling tasks. The dataset consists of about 6K Vietnamese utterances with disfluency annotations. The construction of PhoATIS_Disfluency and experimental results can be found in our [INTERSPEECH 2022 paper](to-be-updated):
 
 	@inproceedings{PhoATIS_Disfluency,
-	    title     	= {{From Disfluency Detection to Intent Detection and Slot Filling}},
-	    author    	= {Mai Hoang Dao and Thinh Hung Truong and Dat Quoc Nguyen},
+	    title     = {{From Disfluency Detection to Intent Detection and Slot Filling}},
+	    author    = {Mai Hoang Dao and Thinh Hung Truong and Dat Quoc Nguyen},
 	    booktitle = {Proceedings of the 23rd Annual Conference of the International Speech Communication Association (INTERSPEECH)},
         year      = {2022}
 	}  
@@ -14,14 +13,14 @@ By downloading the PhoATIS_Disfluency dataset, USER agrees:
 
 - to use PhoATIS_Disfluency for research or educational purposes only.
 - to **not** distribute PhoATIS_Disfluency or part of PhoATIS_Disfluency in any original or modified form.
-- and to cite our INTERSPEECH-2022 paper above whenever PhoATIS_Disfluency is employed to help produce published results.
+- and to cite our INTERSPEECH 2022 paper above whenever PhoATIS_Disfluency is employed to help produce published results.
 
-The user can also download from [**here**](https://github.com/VinAIResearch/JointIDSF) our PhoATIS dataset for Vietnamese intent detection and slot filling. 
-
-
+<!-- The user can also download [our PhoATIS dataset](https://github.com/VinAIResearch/JointIDSF/tree/main/PhoATIS) for Vietnamese intent detection and slot filling. -->
 
 
-#### Copyright (c) 2020 VinAI Research
+
+
+#### Copyright (c) 2022 VinAI Research
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
