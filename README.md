@@ -1,6 +1,6 @@
 # PhoATIS_Disfluency: From Disfluency Detection to Intent Detection and Slot Filling
 
-PhoATIS_Disfluency is a dataset created for investigating the influence of disfluency detection on the downstream intent detection and slot filling tasks. The dataset consists of about 6K Vietnamese utterances with disfluency annotations. The construction of PhoATIS_Disfluency and experimental results can be found in our [INTERSPEECH 2022 paper](to-be-updated):
+PhoATIS_Disfluency is a dataset created for investigating the influence of disfluency detection on the downstream intent detection and slot filling tasks. The dataset consists of about 6K Vietnamese utterances with disfluency annotations. The construction of PhoATIS_Disfluency and experimental results can be found in our [INTERSPEECH 2022 paper](https://www.isca-speech.org/archive/interspeech_2022/dao22_interspeech.html):
 
 	@inproceedings{PhoATIS_Disfluency,
 	    title     = {{From Disfluency Detection to Intent Detection and Slot Filling}},
